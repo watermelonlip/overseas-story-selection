@@ -1,0 +1,4 @@
+interface:
+  display_name: "海外短剧选题"
+  short_description: "小说评分、双版梗概与人设、刺激型换皮讨论、付费卡点及选题文档"
+  default_prompt: "请使用 $overseas-story-selection 完整阅读我提供的小说，先只做选题评分，完成后等待我确认。"
